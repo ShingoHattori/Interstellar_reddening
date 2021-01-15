@@ -17,3 +17,7 @@ explainで使っているライブラリの説明など
 ## data
 
 サンプルデータがそのまんま乗っている
+
+# 使い方
+
+基本的にjupyter notebookに説明が書いてありますが，処理を始める前に [こちら](https://drive.google.com/file/d/1rcvYiqUz9E3Ow7VSQNlharTGf5dWyXi1/view?usp=sharing "Here") からサンプルデータをダウンロードしてdataディレクトリに放り込んでください．

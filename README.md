@@ -20,7 +20,7 @@ explainで使っているライブラリの説明など
 
 # 使い方
 
-基本的にjupyter notebookに説明が書いてありますが，処理を始める前に [こちら](https://drive.google.com/file/d/1ksiTOxEhck9jwN0nhLva0TMAgZxRnh6H/view?usp=sharing "Here") からサンプルデータをダウンロードしてdataディレクトリに放り込んでください．
+基本的にjupyter notebookに説明が書いてありますが，処理を始める前に [こちら](https://drive.google.com/file/d/1WQ8MafUv82rDotM0wdSh793w9O3zdI-n/view?usp=sharing "Here") と [こちら](https://drive.google.com/file/d/13OTwMJsB28SxpQ92ywRJoCZdFjr_h0cx/view?usp=sharing "Here") からサンプルデータをダウンロードしてdataディレクトリに放り込んでください．
 
 # パッケージインストール
 

@@ -3,3 +3,4 @@ __*
 *.fits
 *.csv
 */.ipynb_checkpoints
+data/*
